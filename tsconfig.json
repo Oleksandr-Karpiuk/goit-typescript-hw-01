@@ -2,6 +2,7 @@
   "compilerOptions": {
     "rootDir": "./src",
     "outDir": "./dist",
+    "baseUrl": "./",
     "allowJs": false,
     "allowSyntheticDefaultImports": true,
     "emitDecoratorMetadata": true,
@@ -16,7 +17,7 @@
     "preserveConstEnums": true,
     "skipLibCheck": true,
     "strictNullChecks": true,
-    "target": "es2019",
+    "target": "ES6",
     "sourceMap": true
   },
   "include": [
