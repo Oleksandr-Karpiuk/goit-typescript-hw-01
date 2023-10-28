@@ -2,7 +2,7 @@
   "name": "typescript",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "web-dev-server --node-resolve --open --watch"
@@ -20,5 +20,5 @@
   "bugs": {
     "url": "https://github.com/Oleksandr-Karpiuk/goit-typescript-hw-01/issues"
   },
-  "homepage": "https://github.com/Oleksandr-Karpiuk/goit-typescript-hw-01#readme"
+  "homepage": "https://github.com/Oleksandr-Karpiuk/goit-typescript-hw-01/"
 }
